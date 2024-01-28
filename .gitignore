@@ -1,0 +1,12 @@
+﻿/.idea
+/[Bb]in
+/[Bb]uild
+/[Ll]ibrary
+/[Ll]ogs
+/[Oo]bj
+/[Tt]emp
+/[Uu]serSettings
+
+*.DS_Store
+*.csproj
+*.sln
